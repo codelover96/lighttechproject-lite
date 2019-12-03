@@ -987,7 +987,7 @@ button:focus {
     call to action
    ========================================================================== */
 #cta {
-    background: url(../img/bg/bg-cta.jpg) fixed;
+    background: url(/img/bg/bg-cta.jpg) fixed;
     background-size: cover;
 }
 
