@@ -1,2 +1,3 @@
-# lighttechproject
-LightTechProject
+# lighttechproject-lite
+LightTechProject Lite
+Static website.
